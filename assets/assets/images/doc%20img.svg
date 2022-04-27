@@ -1,0 +1,9 @@
+<svg width="56" height="80" viewBox="0 0 56 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 8C0 3.58172 3.58172 0 8 0H48C52.4183 0 56 3.58172 56 8V72C56 76.4183 52.4183 80 48 80H8C3.58172 80 0 76.4183 0 72V8Z" fill="#EAF4FC"/>
+<line opacity="0.5" x1="7.5" y1="12.2273" x2="21.375" y2="12.2273" stroke="#2E8EE6" stroke-linecap="round"/>
+<line opacity="0.5" x1="7.5" y1="16.7727" x2="25.75" y2="16.7727" stroke="#2E8EE6" stroke-linecap="round"/>
+<line opacity="0.5" x1="7.5" y1="34.0454" x2="46.75" y2="34.0454" stroke="#2E8EE6" stroke-linecap="round"/>
+<line opacity="0.5" x1="7.5" y1="39.5" x2="42.375" y2="39.5" stroke="#2E8EE6" stroke-linecap="round"/>
+<line opacity="0.5" x1="7.5" y1="44.9546" x2="46.75" y2="44.9546" stroke="#2E8EE6" stroke-linecap="round"/>
+<line opacity="0.5" x1="7.5" y1="50.4091" x2="32.75" y2="50.4091" stroke="#2E8EE6" stroke-linecap="round"/>
+</svg>
