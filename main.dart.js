@@ -24436,7 +24436,7 @@ BY:function BY(a){this.a=a},
 aI0(){var s,r=A.iL(),q=A.iL(),p=new A.NB(B.aS,B.aR,B.aU,B.ak),o=A.a([],t.d),n=A.a([],t.O),m=A.a([],t.l)
 $.e5()
 s=$.eh()
-r=new A.o6(new A.k0("https://cyberslovo.app:2025",r),q,new A.bv(null,null,t.Ez),o,n,m,s,null,p)
+r=new A.o6(new A.k0("https://cyberslovo.app/api/dev",r),q,new A.bv(null,null,t.Ez),o,n,m,s,null,p)
 r.dE(p,t.gA)
 r.aV(0,r.gaeS(),t.Fe)
 r.aV(0,r.gaeU(),t.G2)
@@ -84832,13 +84832,13 @@ A.bF(s.r,"sink")
 r=s.r=new A.Zv(s,q)}r.aD(0)
 this.aK(0)}}
 A.avR.prototype={
-$1(a){return new A.k0("https://cyberslovo.app:2025",A.iL())},
+$1(a){return new A.k0("https://cyberslovo.app/api/dev",A.iL())},
 $S:612}
 A.avS.prototype={
 $1(a){var s,r=A.iL(),q=new A.QT(),p=A.a([],t.d),o=A.a([],t.O),n=A.a([],t.l)
 $.e5()
 s=$.eh()
-r=new A.oH(new A.k0("https://cyberslovo.app:2025",r),new A.bv(null,null,t.dT),p,o,n,s,null,q)
+r=new A.oH(new A.k0("https://cyberslovo.app/api/dev",r),new A.bv(null,null,t.dT),p,o,n,s,null,q)
 r.dE(q,t.v9)
 r.aV(0,r.ga9_(),t.U5)
 r.aV(0,r.ga7A(),t.E8)
@@ -84848,7 +84848,7 @@ A.avT.prototype={
 $1(a){var s,r=A.iL(),q=new A.Dk(),p=A.a([],t.d),o=A.a([],t.O),n=A.a([],t.l)
 $.e5()
 s=$.eh()
-r=new A.or(new A.a9h("https://cyberslovo.app:2025",r),new A.bv(null,null,t.NL),p,o,n,s,null,q)
+r=new A.or(new A.a9h("https://cyberslovo.app/api/dev",r),new A.bv(null,null,t.NL),p,o,n,s,null,q)
 r.dE(q,t.zZ)
 r.aV(0,r.gaeO(),t.S_)
 r.aV(0,r.gael(),t.QB)
@@ -84861,7 +84861,7 @@ A.avZ.prototype={
 $1(a){var s,r=A.iL(),q=new A.V4(),p=A.a([],t.d),o=A.a([],t.O),n=A.a([],t.l)
 $.e5()
 s=$.eh()
-r=new A.pE(new A.k0("https://cyberslovo.app:2025",r),new A.bv(null,null,t.vK),p,o,n,s,null,q)
+r=new A.pE(new A.k0("https://cyberslovo.app/api/dev",r),new A.bv(null,null,t.vK),p,o,n,s,null,q)
 r.dE(q,t.HO)
 r.aV(0,r.gai5(),t.Hn)
 r.aV(0,r.gai2(),t.ox)
@@ -84959,10 +84959,10 @@ q.aV(0,q.gaeK(),t.Z6)
 return q},
 $S:625}
 A.avX.prototype={
-$1(a){return A.aZH(A.aD2(a,t.Bq),new A.k0("https://cyberslovo.app:2025",A.iL()))},
+$1(a){return A.aZH(A.aD2(a,t.Bq),new A.k0("https://cyberslovo.app/api/dev",A.iL()))},
 $S:626}
 A.avY.prototype={
-$1(a){return A.aZI(A.aD2(a,t.o8),new A.ame("https://cyberslovo.app:2025",A.iL()))},
+$1(a){return A.aZI(A.aD2(a,t.o8),new A.ame("https://cyberslovo.app/api/dev",A.iL()))},
 $S:627}
 A.my.prototype={
 gT(){return A.a([this.a,this.b,this.c],t.f)},
@@ -85602,7 +85602,7 @@ n=q.b
 m=A
 l=A
 s=4
-return A.B(new A.k0("https://cyberslovo.app:2025",A.iL()).ot(A.eI(p.e,0,null).gJ3().i(0,"token")),$async$$1)
+return A.B(new A.k0("https://cyberslovo.app/api/dev",A.iL()).ot(A.eI(p.e,0,null).gJ3().i(0,"token")),$async$$1)
 case 4:o.aI6(n,m.aIR(l.b(c.a,"id")),t.X)
 case 3:return A.x(null,r)}})
 return A.y($async$$1,r)},
@@ -85687,7 +85687,7 @@ A.alQ.prototype={
 $2(a,b){var s,r=null
 if(b instanceof A.Hm)return new A.ka(1,B.cT,A.aK(A.bj(b.a,1,B.aG,r,r,B.cE,B.ay,r),r,r),r)
 else if(b instanceof A.Hp)return A.b1(B.fN,B.p,B.n,B.j,r)
-else if(b instanceof A.Ho){s=B.b.F("https://cyberslovo.app:2025","dev")?"dev":"test"
+else if(b instanceof A.Ho){s=B.b.F("https://cyberslovo.app/api/dev","dev")?"dev":"test"
 A.QD("https://cyberslovo.app/wa-"+s+"/?token="+b.a)}s=A.c6(16)
 return A.cH(r,A.az(r,A.aK(A.bj("\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443",r,r,r,r,A.f8(r,r,B.l,r,r,r,r,r,r,r,r,18,r,B.a3,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),r,r,new A.aY(r,r,r,s,r,B.pI,B.y),r,r,B.H5,r),B.C,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.alP(this.a,a),r,r,r,r,r,r)},
 $S:657}
@@ -85786,7 +85786,7 @@ $S:0}
 A.a98.prototype={
 $0(){var s=0,r=A.z(t.H),q=this,p
 var $async$$0=A.v(function(a,b){if(a===1)return A.w(b,r)
-while(true)switch(s){case 0:p="https://cyberslovo.app:2025"+A.b(A.b(q.a.c.x,"downloadDoc").b,"urlToken")
+while(true)switch(s){case 0:p="https://cyberslovo.app/api/dev"+A.b(A.b(q.a.c.x,"downloadDoc").b,"urlToken")
 s=5
 return A.B(A.aAZ(p),$async$$0)
 case 5:s=b?2:4
@@ -85835,7 +85835,7 @@ rO(a){return this.acQ(a)},
 acQ(a){var s=0,r=A.z(t.H)
 var $async$rO=A.v(function(b,c){if(b===1)return A.w(c,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.a4l(A.Be(B.fL,"https://cyberslovo.app:2025"+a,B.E,!1)),$async$rO)
+return A.B(A.a4l(A.Be(B.fL,"https://cyberslovo.app/api/dev"+a,B.E,!1)),$async$rO)
 case 2:return A.x(null,r)}})
 return A.y($async$rO,r)}}
 A.amb.prototype={
@@ -85857,7 +85857,7 @@ r=A.c6(4)
 q=A.a6w(B.Ez,1)
 p=s.c
 o=t.p
-return new A.bR(B.bE,A.nj(A.bb(A.a([B.bf,A.bb(A.a([B.VY,B.aV,A.aD9(A.bE(new A.bR(B.c_,A.bb(A.a([A.b1(A.a([A.aaR(A.az(n,A.bj("https://cyberslovo.app:2025"+A.b(A.b(p.x,"downloadDoc").a,"urlAuth"),1,B.aG,n,n,B.n5,n,n),n,n,new A.aY(n,n,q,r,n,n,B.y),n,n,B.b7,n)),B.be,new A.V5(A.b(p.a,"id"),n)],o),B.p,B.bs,B.j,n),B.aV,B.WE],o),B.A,B.n,B.j),n),n,500),!0)],o),B.A,B.n,B.j),B.bf,s.Mp()],o),B.A,B.n,B.j),n,B.C,n,n,!1,B.Y),n)}else if(A.b(s.a,m)===3)return new A.bR(B.bE,A.nj(A.bb(A.a([B.bf,this.a.Mp()],t.p),B.A,B.n,B.j),n,B.C,n,n,!1,B.Y),n)
+return new A.bR(B.bE,A.nj(A.bb(A.a([B.bf,A.bb(A.a([B.VY,B.aV,A.aD9(A.bE(new A.bR(B.c_,A.bb(A.a([A.b1(A.a([A.aaR(A.az(n,A.bj("https://cyberslovo.app/api/dev"+A.b(A.b(p.x,"downloadDoc").a,"urlAuth"),1,B.aG,n,n,B.n5,n,n),n,n,new A.aY(n,n,q,r,n,n,B.y),n,n,B.b7,n)),B.be,new A.V5(A.b(p.a,"id"),n)],o),B.p,B.bs,B.j,n),B.aV,B.WE],o),B.A,B.n,B.j),n),n,500),!0)],o),B.A,B.n,B.j),B.bf,s.Mp()],o),B.A,B.n,B.j),n,B.C,n,n,!1,B.Y),n)}else if(A.b(s.a,m)===3)return new A.bR(B.bE,A.nj(A.bb(A.a([B.bf,this.a.Mp()],t.p),B.A,B.n,B.j),n,B.C,n,n,!1,B.Y),n)
 else if(A.b(s.a,m)===4||A.b(s.a,m)===5)return new A.bR(B.bE,A.nj(A.bb(A.a([B.bf,A.bj(A.b(s.b,"name"),n,n,n,n,B.yx,n,n)],t.p),B.A,B.n,B.j),n,B.C,n,n,!1,B.Y),n)}return A.az(n,n,n,n,n,n,n,n,n)},
 $S:668}
 A.am6.prototype={
@@ -85914,7 +85914,7 @@ return A.b1(A.a([B.oP,B.be,A.bb(A.a([B.he,B.aV,A.ew(B.u,A.az(o,A.bb(B.JK,B.A,B.n
 $S:672}
 A.Vj.prototype={
 E(a,b){var s=null,r=t.Mb,q=t.MQ
-return A.r3(s,A.cZ(s,s,new A.amm(this,"https://cyberslovo.app:2025"),r,q),s,new A.amn(this),r,q)},
+return A.r3(s,A.cZ(s,s,new A.amm(this,"https://cyberslovo.app/api/dev"),r,q),s,new A.amn(this),r,q)},
 aif(a){A.a4o(new A.amj(),a,t.z)}}
 A.amn.prototype={
 $2(a,b){if(b instanceof A.yK)this.a.aif(a)},
