@@ -84277,7 +84277,7 @@ return A.w(null,r)}})
 return A.x($async$Ek,r)},
 t0(){var s=0,r=A.y(t.z),q
 var $async$t0=A.t(function(a,b){if(a===1)return A.v(b,r)
-while(true)switch(s){case 0:q=A.e1("https://cyberslovo.app:1443/auth/realms/Google/protocol/openid-connect/auth?client_id=account&response_type=code&redirect_uri=https://www.cyberslovo.app/wa-research/",0,null)
+while(true)switch(s){case 0:q=A.e1("https://cyberslovo.app:1443/auth/realms/Google/protocol/openid-connect/auth?client_id=account&response_type=code&redirect_uri=https://www.cyberslovo.app/wa-dev/",0,null)
 s=5
 return A.A(A.aBi(q),$async$t0)
 case 5:s=b?2:4
