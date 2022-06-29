@@ -85887,8 +85887,8 @@ $1(a){return A.b([new A.pm(1,new A.asE(a),B.Wx,null,t.nE)],t.Lj)},
 $S:654}
 A.asE.prototype={
 $0(){var s=this.a
-J.bS(A.co(s,!1,t.tj),new A.r2())
-A.W1(s,!1).f.arW("/",t.X)},
+A.W1(s,!1).f.arW("/",t.X)
+J.bS(A.co(s,!1,t.tj),new A.r2())},
 $S:0}
 A.RK.prototype={
 F(a,b){return new A.bL(B.Hc,A.bF(A.aN(A.d1("assets/images/logo.svg",B.ag),null,null),16,80),null)}}
