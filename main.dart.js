@@ -94266,7 +94266,7 @@ $.aIQ=A.H(t.N,t.y)
 $.aNa=null
 $.azS=null
 $.aEn=null
-$.j6="https://cyberslovo.app/api/dev"
+$.j6="https://wwww.cyberslovo.app/api/dev"
 $.aYd=A.H(t.S,A.Z("b74"))})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"b95","cE",()=>A.b46(A.MR().navigator.vendor,B.b.Jz(A.MR().navigator.userAgent)))
 s($,"b9M","fE",()=>A.b48())
