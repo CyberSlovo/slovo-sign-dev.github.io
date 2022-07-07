@@ -86374,7 +86374,7 @@ $2(a,b){var s,r=null
 if(b instanceof A.HL)return new A.ka(1,B.cP,A.aI(A.bb(b.a,1,B.aE,r,r,B.cB,B.ao,r),r,r),r)
 else if(b instanceof A.HO)return A.aZ(B.fS,B.p,B.n,B.k,r)
 else if(b instanceof A.HN){s=B.b.F($.j8,"dev")?"dev":"test"
-A.Ri("https://cyberslovo.app/wa-"+s+"/?token="+b.a)}s=A.bR(16)
+A.Ri("https://www.cyberslovo.app/wa-"+s+"/?token="+b.a)}s=A.bR(16)
 return A.dh(r,A.av(r,A.aI(A.bb("\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0443",r,r,r,r,A.fe(r,r,B.j,r,r,r,r,r,r,r,r,18,r,B.a5,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),r,r,new A.aV(r,r,r,s,r,B.pY,B.w),r,r,B.Hs,r),B.C,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.amE(this.a,a),r,r,r,r,r,r)},
 $S:671}
 A.amE.prototype={
