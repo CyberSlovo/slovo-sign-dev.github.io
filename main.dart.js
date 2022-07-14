@@ -46081,9 +46081,9 @@ if(q===$){s=r.gvs()
 A.bU(r.k1,"matcher")
 q=r.k1=new A.Vf(s)}return q},
 gAf(){return A.b(this.fy,"_navigationHistory")},
-gvs(){var s,r,q=null,p="DashboardRoute",o="EmptyRouterRoute",n="*#redirect",m=this.k2
+gvs(){var s,r,q=null,p="DashboardRoute",o="documents",n="EmptyRouterRoute",m=this.k2
 if(m===$){s=t.tl
-r=A.aM2(A.a([A.hZ("SplashRoute",q,!1,q,"/",q),A.hZ("SignInRoute",q,!1,q,"/sign_in",q),A.hZ("SignUpRoute",q,!1,q,"/sign_up",q),A.hZ("FailureRoute",q,!1,q,"/failure",q),A.hZ("NotFoundRoute",q,!1,q,"/not_found",q),A.hZ("AuthenticationRoute",q,!1,q,"/auth",q),A.hZ(p,A.a([A.hZ(o,A.a([A.hZ("DocumentsRoute",q,!1,o,"",q),A.hZ("DocumentDetailsRoute",q,!1,o,":documentId",q),A.hZ(n,q,!0,o,"*","")],s),!1,p,"documents",q),A.hZ("ProfileRoute",q,!1,p,"profile",q),A.hZ("DirectoryRoute",q,!1,p,"directory",q),A.hZ("BalanceRoute",q,!1,p,"balance",q)],s),!1,q,"/dashboard",q),A.hZ(n,q,!0,q,"*","/")],s))
+r=A.aM2(A.a([A.hZ("SplashRoute",q,!1,q,"/",q),A.hZ("SignInRoute",q,!1,q,"/sign_in",q),A.hZ("SignUpRoute",q,!1,q,"/sign_up",q),A.hZ("FailureRoute",q,!1,q,"/failure",q),A.hZ("NotFoundRoute",q,!1,q,"/not_found",q),A.hZ("AuthenticationRoute",q,!1,q,"/auth",q),A.hZ(p,A.a([A.hZ("#redirect",q,!0,p,"",o),A.hZ(n,A.a([A.hZ("DocumentsRoute",q,!1,n,"",q),A.hZ("DocumentDetailsRoute",q,!1,n,":documentId",q),A.hZ("*#redirect",q,!0,n,"*","")],s),!1,p,o,q),A.hZ("ProfileRoute",q,!1,p,"profile",q),A.hZ("DirectoryRoute",q,!1,p,"directory",q),A.hZ("BalanceRoute",q,!1,p,"balance",q)],s),!1,q,"/dashboard",q)],s))
 A.bU(this.k2,"routeCollection")
 this.k2=r
 m=r}return m},
