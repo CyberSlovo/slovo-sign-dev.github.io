@@ -88052,7 +88052,7 @@ while(true)switch(s){case 0:p=t.N
 o=A.au(["accept","application/json","content-type","application/x-www-form-urlencoded"],p,p)
 n=A.au(["full_name",c,"external_id",b,"email",a,"phone",d],p,t.u)
 s=3
-return A.x(A.a5S(A.cP("https://cyberslovo.app/api/dev/users/new?"+n.gdK(n).cV(0,new A.arK(),p).b3(0,"&"),0,null),null,o),$async$AF)
+return A.x(A.a5S(A.cP("https://www.cyberslovo.app/api/users/new?"+n.gdK(n).cV(0,new A.arK(),p).b3(0,"&"),0,null),null,o),$async$AF)
 case 3:m=f
 p=m.b
 if(p!==200)throw A.c(A.bv("http.post error: statusCode= "+p))
